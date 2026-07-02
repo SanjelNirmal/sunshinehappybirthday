@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-// Import generated background assets
+// Import generated background assets happpy birthday images from the assets folder
 import starryNight from "../assets/images/img6.jpg";
 import cozyCafe from "../assets/images/img2.jpg";
 import roadTrip from "../assets/images/img3.jpg";
