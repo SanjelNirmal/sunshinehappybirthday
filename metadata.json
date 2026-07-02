@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Storyteller",
+  "description": "An immersive digital narrative and storybook experience featuring interactive cards, digital envelopes, and a floating audio controller wrapped in a Liquid Glass aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
